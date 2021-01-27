@@ -248,4 +248,8 @@ p {
         right: 50%;
         bottom: -6px;
     }
+
+    .app .fila.alerta .col {
+        width: 100%;               
+    }
 }
